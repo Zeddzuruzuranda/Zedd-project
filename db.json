@@ -1,0 +1,71 @@
+{
+   "Cities":[
+      {
+         "id": 1,
+         "city": "Nairobi",
+         "temp_°C": 38 
+      },
+      {
+         "id": 2,
+         "city": "Nakuru",
+         "temp_°C": 44 
+      },
+      {
+         "id": 3,
+         "city": "mombasa",
+         "temp_°C": 44 
+
+      },
+
+      {
+         "id": 4,
+         "city": "moyale",
+         "temp_°C": 45
+      },
+      {
+         "id": 5,
+         "city": "Meru",
+         "temp_°C": 22
+      },
+      {
+         "id": 6,
+         "city": "Naivasha",
+         "temp_°C": 26
+
+      },
+      {
+         "id": 7,
+         "city": "kisii",
+         "temp_°C": 15 
+      },
+      {
+         "id": 8,
+         "city": "kisumu",
+         "temp_°C": 30
+      },
+      {
+         "id": 9,
+         "city": "Eldoret",
+         "temp_°C": 29
+
+      },
+
+      {
+         "id": 10,
+         "city": "isiolo",
+         "temp_°C": 32
+      },
+      {
+         "id": 11,
+         "city": "garisa",
+         "temp_°C": 54
+      },
+      {
+         "id": 12,
+         "city": "lamu",
+         "temp_°C": 25
+
+      }
+ 
+   ]
+}
